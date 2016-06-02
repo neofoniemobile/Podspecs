@@ -1,8 +1,8 @@
 
 Pod::Spec.new do |s|
   s.name         = "BlackRaccoon"
-  s.version      = "1.1"
-  s.summary      = "Neofonie BlackRaccoon IOS FTP Client Code"
+  s.version      = "1.1.1"
+  s.summary      = "Neofonie's fork of BlackRaccoon IOS FTP Client"
 
   s.description  = "BlackRaccoon is a collection of routines used to act as an FTP client."
 
